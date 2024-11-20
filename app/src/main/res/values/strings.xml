@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">first</string>
+    <string name="CenterBut">Центр кнопка</string>
+    <string name="LeftBut">Левая кнопка</string>
+    <string name="RightBut">Правая кнопка</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="mainText">Вход в аккаунт</string>
+    <string name="loginButton">Войти</string>
+    <string name="Name">Имя</string>
+    <string name="passw">Пароль</string>
+</resources>
